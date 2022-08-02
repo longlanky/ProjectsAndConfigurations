@@ -1,0 +1,46 @@
+sys-fs/udev ~amd64
+sys-kernel/gentoo-sources ~amd64
+games-board/pychess ~amd64
+media-video/handbrake ~amd64
+net-vpn/nordvpn ~amd64
+media-sound/lingot ~amd64
+games-board/stockfish ~amd64
+sys-apps/flatpak ~amd64
+dev-libs/nspr ~amd64
+sys-apps/fwupd ~amd64
+sys-process/bottom ~amd64
+dev-libs/capstone ~amd64
+#media-libs/alsa-lib ~amd64
+#media-libs/alsa-ucm-conf ~amd64
+sys-boot/woeusb
+sys-apps/fwupd-efi ~amd64
+games-roguelike/dwarf-fortress ~amd64
+#Firefox & deps
+www-client/firefox ~amd64
+dev-libs/icu ~amd64
+dev-libs/nss ~amd64
+media-libs/mesa ~amd64
+media-libs/dav1d ~amd64
+
+app-editors/vscodium ~amd64
+
+#Tesseract
+media-libs/leptonica ~amd64
+app-text/tessdata_fast ~amd64
+app-text/tesseract ~amd64
+
+x11-wm/xmonad ~amd64
+x11-wm/xmonad-contrib ~amd64
+dev-haskell/mtl ~amd64
+dev-haskell/random ~amd64
+dev-haskell/utf8-string ~amd64
+dev-haskell/x11 ~amd64
+dev-lang/ghc ~amd64
+dev-haskell/x11-xft ~amd64
+dev-haskell/cabal ~amd64
+dev-haskell/parsec ~amd64
+dev-haskell/text ~amd64
+app-admin/haskell-updater ~amd64
+dev-haskell/data-default-class ~amd64
+dev-haskell/splitmix ~amd64
+dev-haskell/setlocale ~amd64
