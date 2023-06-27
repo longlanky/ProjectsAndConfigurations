@@ -8,3 +8,4 @@ After=network-online.target
 ExecStart=/bin/bash /opt/updateip.sh
 
 [Install]
+WantedBy=multi-user.target
