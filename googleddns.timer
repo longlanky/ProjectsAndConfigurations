@@ -1,0 +1,11 @@
+[Unit]
+Description=Timer to Google Dynamic DNS updater
+
+[Timer]
+Unit=googleddns.service
+OnBootSec=1min
+OnUnitActiveSec=1h
+Persistent=False
+
+[Install]
+WantedBy=timers.target
